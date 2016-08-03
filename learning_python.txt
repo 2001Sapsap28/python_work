@@ -1,0 +1,3 @@
+In Python, you can strip blank lines using the strip() method.
+In Python, you can open a file and read its contents as strings.
+In Python, you can create classes and include the __init__ method.
